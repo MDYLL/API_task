@@ -1,3 +1,3 @@
 # API_task
 task from API
-identify customers terminating service
+Прогнозирование отказа клиента от обслуживания. Сегмент - B2B
